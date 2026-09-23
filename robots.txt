@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://main--ibm-bhumika-ue--ibm-eds-training.aem.live/sitemap.xml
